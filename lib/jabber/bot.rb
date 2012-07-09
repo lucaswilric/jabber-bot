@@ -421,6 +421,7 @@ module Jabber
           end
 
           sleep 1
+          Thread.pass
         end
       end
 
